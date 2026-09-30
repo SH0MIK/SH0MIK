@@ -12,13 +12,5 @@
 
 ---
 
-## About Me
-![Typing Animation](/?font=Poppins&size=45&duration=2000&pause=1000&color=4CAF50&center=true&vCenter=true&width=1200&height=180&lines=Professional+bug+creator;Ctrl%2BC+%E2%86%92+Ctrl%2BV+engineer;99.1%25+pure+spaghetti+code;Currently+cooking+random+projects.)
-
-
-
-
----
-
 ## Skills & Stack
 - literally no skills
